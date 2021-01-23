@@ -1,0 +1,8 @@
+._*
+.DS_Store
+settings.json
+#data/*
+#demons/*
+#scripts/*
+logs/*
+demon.sh
